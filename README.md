@@ -1,0 +1,1 @@
+A Python-based quiz application where users can register, log in, take quizzes on different subjects, and view their scores. The application supports three subjects: DSA, DBMS, and Python, with 10 questions each.
